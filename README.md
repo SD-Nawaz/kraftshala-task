@@ -1,10 +1,10 @@
 # Weather Application
 
 
-![image](https://github.com/pravesh2892/kraftshala-assignment/assets/112716122/b6205d56-6f9e-47d1-9244-f9e854be532b)
+![image](https://raw.githubusercontent.com/SD-Nawaz/kraftshala-task/master/src/assets/light-mode.png)
 
 
-![image](https://github.com/pravesh2892/kraftshala-assignment/assets/112716122/69177f66-e838-4d89-83f1-abfb1761ef8a)
+![Dark Mode](https://raw.githubusercontent.com/SD-Nawaz/kraftshala-task/master/src/assets/dark-mode.png)
 
 
 
@@ -34,22 +34,36 @@ The Weather Forecast App is a comprehensive tool designed to provide detailed we
 5. Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
 
 ## Usage
+1. **Forecast Navigation**:
+   - Navigate between hourly and daily forecasts using intuitive controls.
+   - Customize the view to focus on specific weather parameters like temperature, wind speed, or precipitation.
+     
+2. **Map Interaction**:
+   - Interact with the map to explore different regions and view weather conditions in real time.
+   - Overlay radar and satellite imagery to track storms and weather fronts.
+     
+3. **Alerts Management**:
+   - Set up personalized alerts to receive notifications for weather conditions that matter to you, ensuring timely updates.
+     
+4. **Trip Planning**:
+   - Use the travel planner to check weather forecasts for multiple locations along your travel route.
+   - Plan your activities with confidence based on accurate weather predictions.
 
-1. On launch, the app displays weather information for your current location (requires location permission).
-2. Enter a city name or zip code in the search bar and press Enter or click the search icon.
-3. The app will display the current weather, temperature,feels like, humidity, max temperature, min-temrature, wind speed, date,time for the entered location.
-4. Use the toggle switch to change between dark and light modes.
-5. To add multiple locations, click on the search bar, enter another location, and repeat.
+5. **Community Engagement**:
+   - Contribute to the community by submitting weather reports and sharing your observations.
+   - Collaborate with other users to enhance local weather insights.
 
 ## Technologies Used
 
 - **React**: For building the user interface.
-- **fetch**: For making API requests.
+- **Weather API Integration**: Utilizes multiple weather APIs for comprehensive data retrieval and analysis.
 - **Open Weather API**: For fetching weather data.
 
 ## Project Structure
 
 - `src/components`: React components (SearchBar, WeatherCard, DarkModeToggle.js, Logo.js, Navbar.js).
+- `src/assets`: Static assets including icons, images, and CSS files.
 - `src/App.css`: CSS module  for styling components.
 - `src/App.js`: Main application component.
  
+This Weather Forecast App aims to empower users with detailed weather insights and interactive tools, making it a valuable companion for planning outdoor activities and staying informed about weather conditions worldwide.
