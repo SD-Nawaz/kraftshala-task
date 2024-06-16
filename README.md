@@ -11,20 +11,20 @@
 
 ## Live Demo
 
-Check out the live application here: [Weather App Live Demo](https://kraftshala-pravesh-ass.vercel.app/)
+Explore the live application: [Weather Insight Live Demo](https://kraftshala-task-nawaz085-sayed-nawazs-projects.vercel.app/)
 
 ## Overview
 
-This Weather App is a frontend application that provides users with current weather information based on their input. It's built using HTML, CSS, and JavaScript (React framework) and integrates with the Open Weather API to fetch real-time weather data.
+The Weather Forecast App is a comprehensive tool designed to provide detailed weather predictions and insights for travelers and outdoor enthusiasts. It leverages advanced forecasting algorithms and integrates with various weather data sources to deliver accurate and timely information.
 
 ## Features
 
-- **Current Weather**: Display current location, temperature, date, and time.
-- **Location Search**: Users can enter a city name or zip code to fetch weather information.
-- **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices.
+- **Hourly and Daily Forecasts**: Offers detailed hourly and daily weather forecasts, including temperature trends, precipitation chances, and wind conditions.
+- **Interactive Map View**: Visualize weather patterns and trends using an interactive map interface, with overlays for radar, satellite imagery, and severe weather alerts.
+- **Travel Planner**: Plan trips effectively with weather forecasts for multiple destinations, ensuring you're prepared for varying conditions along your route.
 - **Dark Mode**: Toggle between dark and light themes for comfortable viewing in any environment.
-- **Multiple Locations**: View weather information for multiple cities simultaneously.
-- **Detailed Weather Info**: Additional weather details like humidity, wind speed, and weather description.
+- **Community Reports**: Enable users to submit real-time weather observations and photos, fostering a community-driven approach to weather reporting.
+- **Accessibility Features**: Designed with accessibility in mind, including support for screen readers and high-contrast modes.
 
 ## Installation and Setup
 1. Clone the repository:
